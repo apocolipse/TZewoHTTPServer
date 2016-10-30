@@ -40,7 +40,7 @@ Adding dependancy
 Add the following in `Package.swift`
 ```swift
   dependencies: [
-    .Package(url: "../../TZewoHTTPServer", majorVersion: 0, minor: 1),
+    .Package(url: "https://github.com/apocolipse/TZewoHTTPServer.git", majorVersion: 0, minor: 1),
   ]
 ```
 
